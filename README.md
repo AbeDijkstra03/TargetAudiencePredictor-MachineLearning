@@ -1,7 +1,9 @@
 # TargetAudiencePredictor-MachineLearning
 
-Most information is protected by an NDA, but I can still show some of the basic coding and data processing skills.
+This project is protected by an NDA.
 
-I commented out all sentitive data and removed most outputs.
+It is a bit like the HousePricePredictor project, but more advanced.
 
-It was created in colaboration with three other people.
+There is a lot of focus on exploratory data analysis, because the company requested that.
+
+I did this project in colaboration with three other people.
